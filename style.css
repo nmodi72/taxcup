@@ -1,0 +1,266 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header{
+	margin-top: 0px;
+	width: 100%;
+	background-color: #1f282e;
+	height : 80px;
+	z-index: -999;
+}
+
+h1{
+	position: absolute;
+	left: 14%;
+	top: 0%;
+	color: #EAEAFB;
+	z-index: 999;
+	text-transform: uppercase;
+}
+
+nav{
+
+	position: absolute;
+	left: 73%;
+	top: 0%;	
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+section{
+	width: 100%;
+	height: 640px;
+}
+
+h2{
+	font-size: 35px;
+	font-weight: 300;
+}
+
+#firstsection{
+	height: auto;
+}
+
+#starthere{
+		margin-top: 10px;
+		margin-bottom: 30px;
+}
+
+#featured{
+	width: 100%;
+	background-color: #F1F2F4;
+    border-top: 2px solid #DEE0E5;
+    border-bottom: 2px solid #DEE0E5;
+    height: auto;
+
+}
+
+#lockimg{
+	width: 200px;
+	margin-top: 20px;
+}
+
+h3:first-child{
+	margin-top: 10px;	
+}
+
+h3{
+	font-weight: 300;
+	font-size: 25px;
+	margin-top: -20px;
+}
+
+#image-first-container{
+	width: 100%;
+	margin-bottom: 140px;
+}
+
+#image-first{
+	margin-left: 8%;
+	width: 400px;
+	float: left;	
+}
+
+h4{
+	text-align: center;
+	font-size: 25px;
+	font-weight: 400;
+}
+
+p{
+	text-align: center;
+}
+
+#image-second{
+	width: 400px;
+	float: left;
+	margin-left: 8%;
+}
+
+#question{
+	height: auto;
+}
+
+#img-second-container{
+	margin-top: 10px;	
+	width: 100%;
+	display: inline-block;
+}
+
+#img-one{
+	width: 300px;	
+	float: left;
+}
+
+#img-two{
+	width: 300px;	
+	float: left;
+	margin-left: 30px;
+	margin-top: 73px;
+}
+
+#img-three{
+	width: 300px;	
+	float: left;
+	margin-left: 20px;
+}
+
+@media screen and (max-width: 800px) {
+    .innercontent{
+        margin-left: 5%;
+        margin-right: 5%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .innercontent{
+        margin-left: 5%;
+        margin-right: 5%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+    .innercontent{
+        margin-left: 5%;
+        margin-right: 5%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 6500px) {
+    .innercontent{
+        margin-left: 37%;
+        margin-right: 37%;
+        overflow: hidden;
+    }
+
+}
+
+
+@media screen and (max-width: 3000px) {
+    .innercontent{
+        margin-left: 30%;
+        margin-right: 30%;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 2500px) {
+    .innercontent{
+        margin-left: 25%;
+        margin-right: 25%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 2000px) {
+    .innercontent{
+        margin-left: 21%;
+        margin-right: 21%;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .innercontent{
+        margin-left: 15%;
+        margin-right: 15%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 1400px) {
+    .innercontent{
+        margin-left: 15%;
+        margin-right: 15%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 1400px) {
+    .innercontent{
+        margin-left: 13%;
+        margin-right: 13%;
+        overflow: hidden;
+    }
+}
+
+
+
+@media screen and (max-width: 1300px) {
+    .innercontent{
+        margin-left: 8%;
+        margin-right: 8%;
+        overflow: hidden;
+    }
+}
+
+
+
+@media screen and (max-width: 1300px) {
+    .innercontent{
+        margin-left: 7%;
+        margin-right: 7%;
+        overflow: hidden;
+    }
+}
+
+
+@media screen and (max-width: 1150px) {
+    .innercontent{
+        margin-left: 5%;
+        margin-right: 5%;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .innercontent{
+        margin-left: 5%;
+        margin-right: 5%;
+        overflow: hidden;
+    }
+}
